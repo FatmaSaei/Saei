@@ -2213,8 +2213,8 @@ body.menu-is-open {
 }
 
 .home-content__button .btn:last-child {
-  left: 50%;
-  right: auto;
+  left: 39%;
+  right: 0;
 }
 
 .home-content__button .btn:not(.btn--primary) {
